@@ -1,0 +1,141 @@
+/Users/caidennelson/Library/Java/JavaVirtualMachines/openjdk-23.0.1/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=55468:/Applications/IntelliJ IDEA CE.app/Contents/bin -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/caidennelson/IdeaProjects/UNWSP Java Class/out/production/week 11 ultimateComputerMenu
+Would you like to use the computer? Yes or No
+yes
+Here is a list of methods to choose from
+Method list: 1 = Double Factorial, 2 = Fibonacci Sequence, 3 = Average of a list,
+4 = Dice Game, 5 = Piecewise Function, 6 = Calculator App, 7 = Favorite Saying,
+8 = ASCII Art, 9 = Encouragement App.
+What method would you like to call: choose a number 1-9.
+1
+Please select a number less than 20
+4
+The double factorial of 4 is equal to 8
+Would you like to use another app? Yes or No
+yes
+Here is a list of methods to choose from
+Method list: 1 = Double Factorial, 2 = Fibonacci Sequence, 3 = Average of a list,
+4 = Dice Game, 5 = Piecewise Function, 6 = Calculator App, 7 = Favorite Saying,
+8 = ASCII Art, 9 = Encouragement App.
+What method would you like to call: choose a number 1-9.
+2
+How many fibonacci numbers would you like?
+3
+[1, 1] [2, 3] [5, 8] [I@c4437c4
+Would you like to use another app? Yes or No
+yes
+Here is a list of methods to choose from
+Method list: 1 = Double Factorial, 2 = Fibonacci Sequence, 3 = Average of a list,
+4 = Dice Game, 5 = Piecewise Function, 6 = Calculator App, 7 = Favorite Saying,
+8 = ASCII Art, 9 = Encouragement App.
+What method would you like to call: choose a number 1-9.
+3
+How many numbers do you want to add to the list? 1-30
+3
+what number would you like to add
+1
+what number would you like to add
+2
+what number would you like to add
+3
+The average of your numbers is 2
+
+Would you like to use another app? Yes or No
+yes
+Here is a list of methods to choose from
+Method list: 1 = Double Factorial, 2 = Fibonacci Sequence, 3 = Average of a list,
+4 = Dice Game, 5 = Piecewise Function, 6 = Calculator App, 7 = Favorite Saying,
+8 = ASCII Art, 9 = Encouragement App.
+What method would you like to call: choose a number 1-9.
+4
+Would you like to roll dice?
+yes
+Dice 1 =2 Dice 2 =5 The total of the dice =7
+Would you like to roll again?
+no
+
+Would you like to use another app? Yes or No
+yes
+Here is a list of methods to choose from
+Method list: 1 = Double Factorial, 2 = Fibonacci Sequence, 3 = Average of a list,
+4 = Dice Game, 5 = Piecewise Function, 6 = Calculator App, 7 = Favorite Saying,
+8 = ASCII Art, 9 = Encouragement App.
+What method would you like to call: choose a number 1-9.
+5
+what number would you like to use for the piecewise equations?
+5
+33
+
+Would you like to use another app? Yes or No
+yes
+Here is a list of methods to choose from
+Method list: 1 = Double Factorial, 2 = Fibonacci Sequence, 3 = Average of a list,
+4 = Dice Game, 5 = Piecewise Function, 6 = Calculator App, 7 = Favorite Saying,
+8 = ASCII Art, 9 = Encouragement App.
+What method would you like to call: choose a number 1-9.
+6
+Please enter your first number. (Must be positive and greater than 1)
+6
+Please enter your second number. (Must be positive and greater than 1)
+7
+When added your numbers = 13.0 When multiplied they = 42.0 When divided they = 0.8571428571428571 When number 1 is raised to the power of number 2 it = 279936.0 And when logged it = 0.0
+
+Would you like to use another app? Yes or No
+yes
+Here is a list of methods to choose from
+Method list: 1 = Double Factorial, 2 = Fibonacci Sequence, 3 = Average of a list,
+4 = Dice Game, 5 = Piecewise Function, 6 = Calculator App, 7 = Favorite Saying,
+8 = ASCII Art, 9 = Encouragement App.
+What method would you like to call: choose a number 1-9.
+7
+                                 	Loyalty is its own reward
+
+Would you like to use another app? Yes or No
+yes
+Here is a list of methods to choose from
+Method list: 1 = Double Factorial, 2 = Fibonacci Sequence, 3 = Average of a list,
+4 = Dice Game, 5 = Piecewise Function, 6 = Calculator App, 7 = Favorite Saying,
+8 = ASCII Art, 9 = Encouragement App.
+What method would you like to call: choose a number 1-9.
+8
+            ###############            
+         #####################         
+      ###########################      
+    ##############################     
+  #################################    
+####################################   
+#######      ###########       ######  
+#######  ##  ###########  ###  ########
+#######      ###########       ########
+#######################################
+#######################################
+#######################################
+#######################################
+##########                   ##########
+###########                 ###########
+##############            #############
+ ####################################  
+  #################################    
+     ############################      
+#######################################
+#######################################
+
+Would you like to use another app? Yes or No
+yes
+Here is a list of methods to choose from
+Method list: 1 = Double Factorial, 2 = Fibonacci Sequence, 3 = Average of a list,
+4 = Dice Game, 5 = Piecewise Function, 6 = Calculator App, 7 = Favorite Saying,
+8 = ASCII Art, 9 = Encouragement App.
+What method would you like to call: choose a number 1-9.
+9
+What is your first name?
+Caiden
+What is your middle name?
+William
+What is your last name?
+Nelson
+Good job Caiden William Nelson 😸
+Would you like to use another app? Yes or No
+no
+no
+
+Process finished with exit code 0
